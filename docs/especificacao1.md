@@ -1,6 +1,4 @@
-Entendido. Com base em todas as suas orientações e nos ajustes na estrutura de diretórios, vou gerar a **Especificação Técnica Completa do Projeto** formatada para ser utilizada como o documento principal de detalhamento e como *input* para a LLM, garantindo a fidelidade ao DDD, SOLID e Clean Architecture.
-
------
+ 
 
 # 🚀 ESPECIFICAÇÃO TÉCNICA E ARQUITETURAL: PROJETO MODULARIZADO PYTHON
 
@@ -10,8 +8,8 @@ Este projeto define um *template* de aplicação Python com foco em **escalabili
 
 | Item | Especificação |
 | :--- | :--- |
-| **Nome do Projeto** | `meu_projeto` (Pacote principal: `core`) |
-| **Linguagem / Versão** | Python \>= 3.11 |
+| **Nome do Projeto** | `fine-tunning-rag` (Pacote principal: `core`) |
+| **Linguagem / Versão** | Python \>= 3.13 |
 | **Arquitetura Principal** | Clean Architecture (Modelo em Cebola) |
 | **Metodologia de Domínio** | Domain-Driven Design (DDD) |
 | **Padrões de Código** | SOLID (Ênfase em S, O, D) e Programação Híbrida (OO/FP) |
